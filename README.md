@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on: Full-stack web projects, AI-based applications, and academic projects in Data Science & Machine Learning<br><br>👯 I’m looking to collaborate on: Web development, open-source projects, and innovative AI/ML ideas<br><br>🤝 I’m looking for help with: Advanced system design, scalable architectures, and real-world AI implementation<br><br>🌱 I’m currently learning: React.js, Firebase, Machine Learning algorithms, and backend optimization<br><br>💬 Ask me about: Web development, JavaScript, PHP, Python, Data Science concepts, and project building<br><br>⚡ Fun fact: I enjoy turning complex technical concepts into simple, easy-to-understand explanations
+👩‍💻 Vanshika
+🚀 MERN Stack Developer
+
+I build scalable and efficient full-stack web applications using the MERN stack, with a strong focus on performance, clean architecture, and user-centric design.
+
+💡 What I Do
+⚙️ Develop end-to-end web applications using MongoDB, Express.js, React.js, and Node.js
+🎯 Create responsive and dynamic user interfaces with optimized rendering
+🔐 Implement secure authentication & authorization systems
+🧠 Focus on clean code, modular architecture, and real-world problem solving
 
 
 ## 🌐 Socials:
