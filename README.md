@@ -1,9 +1,9 @@
-👩‍💻 Vanshika
-🚀 MERN Stack Developer
+##👩‍💻 Vanshika
+#🚀 MERN Stack Developer
 
 I build scalable and efficient full-stack web applications using the MERN stack, with a strong focus on performance, clean architecture, and user-centric design.
 
-💡 What I Do
+#💡 What I Do
 ⚙️ Develop end-to-end web applications using MongoDB, Express.js, React.js, and Node.js
 🎯 Create responsive and dynamic user interfaces with optimized rendering
 🔐 Implement secure authentication & authorization systems
