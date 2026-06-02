@@ -1,20 +1,97 @@
-# 💫 About Me:
-🔭 Currently working on: Full-stack web applications using MERN stack and real-world projects<br><br>👯 Looking to collaborate on: MERN stack projects, open-source contributions, and scalable web apps<br><br>🤝 Seeking help with: Advanced system design, backend optimization, and scalable architectures<br><br>🌱 Currently learning: Advanced React, backend performance optimization, and system design<br><br>💬 Ask me about: MERN stack, JavaScript, REST APIs, authentication systems, and project development<br><br>⚡ Fun fact: I simplify complex technical concepts into practical and easy-to-understand solutions
+# 💫 About Me
 
+Hi, I'm **Vanshika Aggarwal**, a Full-Stack Developer passionate about building scalable and user-friendly web applications.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vanshikaa_02_43731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vanshika.) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Vanshika002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika9354@gmail.com) 
+🔭 Currently building real-world full-stack applications using the MERN stack
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) 
+🌱 Learning System Design, Backend Optimization, Caching, and Scalable Architectures
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vanshika-OFFICIAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vanshika-OFFICIAL&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vanshika-OFFICIAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+👯 Open to collaborating on web applications, open-source projects, and developer tools
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vanshikatech) 
+💬 Ask me about React, Node.js, MongoDB, REST APIs, Authentication, and Full-Stack Development
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ I enjoy transforming complex technical ideas into simple, practical solutions
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vanshika-027518286/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vanshika-OFFICIAL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vanshika9354@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://reddit.com/user/Vanshika002"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+</p>
+
+# 🚀 Featured Projects
+
+### 📝 Smart Notes App
+A full-stack MERN note management platform featuring JWT authentication, secure REST APIs, and MongoDB Atlas integration for efficient cloud-based note organization.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, JWT, REST APIs, Tailwind CSS
+
+🔗 [Live Demo](https://smart-notes-app-wheat.vercel.app/) | [GitHub](https://github.com/Vanshika-OFFICIAL/smart-notes-app)
+
+---
+
+### 🔬 BioVault – Secure Biomedical Data Portal
+A secure biomedical data management portal with Firebase Authentication, role-based access control, and protected workflows for handling sensitive datasets.
+
+**Tech Stack:** React.js, Node.js, Firebase Authentication, Firestore, RBAC, Tailwind CSS
+
+🔗 [Live Demo](https://biovault-e4f8e.firebaseapp.com/) | [GitHub](https://github.com/Vanshika-OFFICIAL/BioVault-Data-Portal)
+
+---
+
+### 🍳 IngreGenius – Recipe Recommendation Platform
+An ingredient-based recipe discovery platform that helps users find recipes using available ingredients, with Firebase-powered data management and smart filtering.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Firebase
+
+🔗 [Live Demo](https://ingregenius.netlify.app/) | [GitHub](https://github.com/Vanshika-OFFICIAL/IngreGenius-RecipeSite)
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Vanshika-OFFICIAL&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![](https://streak-stats.demolab.com?user=Vanshika-OFFICIAL&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-OFFICIAL&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Vanshika-OFFICIAL&style=for-the-badge)
+
+---
+
+⭐ Building impactful products, learning continuously, and growing as a Full-Stack Developer.
