@@ -12,7 +12,6 @@ Hi, I'm **Vanshika**, a Full-Stack Developer passionate about building scalable 
 
 ⚡ I enjoy transforming complex technical ideas into simple, practical solutions
 
----
 
 ## 🌐 Connect With Me
 
@@ -41,6 +40,7 @@ Hi, I'm **Vanshika**, a Full-Stack Developer passionate about building scalable 
   </a>
 
 </p>
+
 # 🚀 Featured Projects
 
 ### 📝 Smart Notes App
@@ -68,7 +68,7 @@ An ingredient-based recipe discovery platform that helps users find recipes usin
 
 🔗 [Live Demo](https://ingregenius.netlify.app/) | [GitHub](https://github.com/Vanshika-OFFICIAL/IngreGenius-RecipeSite)
 
----
+
 
 # 💻 Tech Stack
 
