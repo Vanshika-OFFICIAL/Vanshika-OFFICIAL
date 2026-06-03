@@ -21,7 +21,7 @@ Hi, I'm **Vanshika**, a Full-Stack Developer passionate about building scalable 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="[YOUR_RESUME_LINK](https://drive.google.com/file/d/1x-4BUKbnLEixuqwcC281G4q4ksJ16ihl/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1x-4BUKbnLEixuqwcC281G4q4ksJ16ihl/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 
