@@ -80,14 +80,14 @@ An ingredient-based recipe discovery platform that helps users find recipes usin
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Vanshika-OFFICIAL&show_icons=true&theme=tokyonight&include_all_commits=true)
+![](https://github-readme-stats.shion.dev/api?username=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=Vanshika-OFFICIAL&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-OFFICIAL&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true&layout=compact)
+## 📈 Contribution Graph
 
----
-
+[![Vanshika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-OFFICIAL&theme=tokyo-night)](https://github.com/Vanshika-OFFICIAL)
 ## 📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Vanshika-OFFICIAL&style=for-the-badge)
