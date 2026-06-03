@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I'm **Vanshika Aggarwal**, a Full-Stack Developer passionate about building scalable and user-friendly web applications.
+Hi, I'm **Vanshika**, a Full-Stack Developer passionate about building scalable and user-friendly web applications.
 
 🔭 Currently building real-world full-stack applications using the MERN stack
 
