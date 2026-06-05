@@ -158,17 +158,6 @@ A full-stack note management application enabling secure note creation, editing,
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true&layout=compact)
-
-
----
-
 # 📈 Contribution Activity
 
 [![Vanshika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-OFFICIAL&theme=tokyo-night)](https://github.com/Vanshika-OFFICIAL)
