@@ -158,8 +158,6 @@ A full-stack note management application enabling secure note creation, editing,
 
 ---
 
-# 📊 GitHub Statistics
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Vanshika-OFFICIAL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
