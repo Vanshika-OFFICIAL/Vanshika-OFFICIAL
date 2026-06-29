@@ -11,13 +11,11 @@
 
 # 💫 About Me
 
-- 💻 Full-Stack Developer focused on building scalable web applications
-- 🚀 Currently building production-ready applications using **React, Next.js, Node.js, Express.js, MongoDB, Firebase**
-- 🌱 Learning **System Design, Backend Optimization, Caching, Scalable Architectures**
-- 🔐 Experienced with **Authentication, JWT, Firebase Auth, REST APIs, Role-Based Access Control**
-- 🤝 Open to internships, collaborations, and developer opportunities
-- ⚡ Passionate about transforming complex technical problems into simple user-friendly solutions
-
+- 💻 Full-Stack Developer specializing in MERN Stack & Next.js
+- 🚀 Building scalable web applications with React, Next.js, Node.js, Express.js & MongoDB
+- 🔐 Experienced in Authentication, REST APIs, Database Design & Backend Development
+- 🌱 Currently learning System Design, Caching, Performance Optimization & Scalable Architectures
+- 🤝 Open to Software Development, Full-Stack Development & Backend Engineering opportunities.
 ---
 
 # 🌐 Connect With Me
@@ -38,10 +36,6 @@
 
 <a href="mailto:vanshika9354@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://reddit.com/user/Vanshika002">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
 </p>
