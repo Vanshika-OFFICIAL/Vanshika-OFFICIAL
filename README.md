@@ -65,6 +65,7 @@ A full-stack productivity platform that helps users organize, manage, categorize
 `Next.js` `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
 🔗 **GitHub:** https://github.com/Vanshika-OFFICIAL/LinkNest-App
+
 🔗 **Live Demo:** https://link-nest-app.vercel.app
 
 ---
