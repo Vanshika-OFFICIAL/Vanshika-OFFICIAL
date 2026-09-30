@@ -154,10 +154,5 @@ A full-stack note management application enabling secure note creation, editing,
 
 ---
 
-# 📈 Contribution Activity
-
-[![Vanshika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-OFFICIAL&theme=tokyo-night)](https://github.com/Vanshika-OFFICIAL)
-
----
 
 ### ⭐ Building impactful products, continuously learning, and growing as a Full-Stack Developer.
